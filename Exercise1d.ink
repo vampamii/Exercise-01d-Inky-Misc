@@ -20,6 +20,7 @@ VAR time = -1 //  0 Morning, 1 Noon, 2 Night
 
 -> seashore
 
+
 == seashore ==
 You are sitting on the beach. 
 It is { advance_time ( )}
